@@ -1,1 +1,1 @@
-# NetTest
+# Titanic Kaggle Competition for ML 
